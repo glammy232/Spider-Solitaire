@@ -1,0 +1,1290 @@
+fileFormatVersion: 2
+guid: a666ecce9ec7c0948a91759ec58e6ead
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 750
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3131
+        width: 746
+        height: 1045
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684a92ac49db029488fd4554678637fc
+      internalID: 2123462180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_1
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3131
+        width: 745
+        height: 1045
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c8155de5d33d248a9743b44d85c13c
+      internalID: -979104530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_2
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 3132
+        width: 748
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e09b63660c41034faa256a275fb0c54
+      internalID: -2027029783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_3
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 3132
+        width: 747
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9fcac06f9b5a549a8200ab398d6336
+      internalID: -175472711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_4
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 3131
+        width: 746
+        height: 1045
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e62782ebc26469499192067ef93322a
+      internalID: -240060890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_5
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 3131
+        width: 746
+        height: 1045
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab8c79ec6931c1418a1df460611cbe2
+      internalID: 573382912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_6
+      rect:
+        serializedVersion: 2
+        x: 4467
+        y: 3133
+        width: 744
+        height: 1043
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255c7506bd1c07c4a9ad3d35bb6d3306
+      internalID: 1306567360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_7
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 3132
+        width: 747
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0604a2568610f4eb39ea037974bdd1
+      internalID: 267127542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_8
+      rect:
+        serializedVersion: 2
+        x: 5954
+        y: 3131
+        width: 743
+        height: 1045
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f0c3b7ba735364ba5cd57373a0bb05
+      internalID: 2135676102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_9
+      rect:
+        serializedVersion: 2
+        x: 6699
+        y: 3132
+        width: 746
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b917af25d6a994aac4e7ace2e66476
+      internalID: -1983864837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_10
+      rect:
+        serializedVersion: 2
+        x: 7446
+        y: 3132
+        width: 748
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7902c634aade0bd4dadf2635b8e9fee0
+      internalID: -438845269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_11
+      rect:
+        serializedVersion: 2
+        x: 8194
+        y: 3131
+        width: 747
+        height: 1045
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f2af1065929bc43894c55d53153031
+      internalID: 1060041153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_12
+      rect:
+        serializedVersion: 2
+        x: 8941
+        y: 3131
+        width: 744
+        height: 1045
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba12cdfa2b9231949b50a97472835f83
+      internalID: 454748391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2088
+        width: 749
+        height: 1043
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45ca83b727783346947f94f105e7cd0
+      internalID: 95053966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_14
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 2088
+        width: 742
+        height: 1043
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad345accfbc824e49b6610671ed6a0cc
+      internalID: 417300177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_15
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2089
+        width: 744
+        height: 1043
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66336593ea903c64ead80173a91bf289
+      internalID: -2133611572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_16
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 2089
+        width: 744
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb81d66a6faf08045b2704934b907796
+      internalID: 1650710772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_17
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 2089
+        width: 742
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878297559ae8c22459858e5f64f49077
+      internalID: 1290922638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_18
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 2089
+        width: 742
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d251a832b3cd9f64492351b8fbba45e6
+      internalID: 687508729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_19
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 2089
+        width: 744
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a9a38b3564cb84ea0fe1ca26b4176d
+      internalID: -435137524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_20
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 2088
+        width: 746
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fae695d0e738f9459ce4797762a13bb
+      internalID: 1109604302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_21
+      rect:
+        serializedVersion: 2
+        x: 5211
+        y: 2089
+        width: 745
+        height: 1043
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73b0695489995140afb3332d12d5a4a
+      internalID: -451660456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_22
+      rect:
+        serializedVersion: 2
+        x: 5956
+        y: 2089
+        width: 744
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d7df85ff58c9747b68467c17b42620
+      internalID: -1596946728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_23
+      rect:
+        serializedVersion: 2
+        x: 6700
+        y: 2089
+        width: 746
+        height: 1043
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872b3619558c5d74b84475598286fa78
+      internalID: 1507926354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_24
+      rect:
+        serializedVersion: 2
+        x: 7447
+        y: 2089
+        width: 746
+        height: 1043
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082496e0441438d458f904579bac308f
+      internalID: 587504772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_25
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 2088
+        width: 748
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e98ad2b8ca3514ca581dd6bbe1ae05
+      internalID: -1887998269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_26
+      rect:
+        serializedVersion: 2
+        x: 8940
+        y: 2088
+        width: 746
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0129cdd55238c834f9f621f11e788a45
+      internalID: -2067013001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1045
+        width: 748
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f491d159c1d8f4f459c84c8a053f3421
+      internalID: -202975714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_28
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1045
+        width: 744
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e6586e44c410447ad562d1b82d9d0a
+      internalID: 16133760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_29
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1046
+        width: 742
+        height: 1043
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b942f5393487d4d9b2d59c8b0252e5
+      internalID: 563632987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_30
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 1046
+        width: 745
+        height: 1043
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69968ab2c37aefa4992c7defaf2b6272
+      internalID: -1543434947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_31
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 1046
+        width: 744
+        height: 1043
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295cb9c3c7ff9504a966424248dab8cf
+      internalID: -1203521232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_32
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 1045
+        width: 746
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11e018bddd9ae348b86d0e4c197918c
+      internalID: 604948893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_33
+      rect:
+        serializedVersion: 2
+        x: 4469
+        y: 1045
+        width: 743
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28ea9f92aae8724f964d6f337285aca
+      internalID: 1910979936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_34
+      rect:
+        serializedVersion: 2
+        x: 5211
+        y: 1046
+        width: 744
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a7408fa93246e4fb75561eb340a144
+      internalID: 728452748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_35
+      rect:
+        serializedVersion: 2
+        x: 5955
+        y: 1046
+        width: 745
+        height: 1041
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807f291382446a64885fa7ec8f71fc9f
+      internalID: -971583792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_36
+      rect:
+        serializedVersion: 2
+        x: 6699
+        y: 1046
+        width: 747
+        height: 1043
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb89676ba4a77242890d0fdcf193efb
+      internalID: 1541397184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_37
+      rect:
+        serializedVersion: 2
+        x: 7445
+        y: 1044
+        width: 748
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0314d3be2dcfc49a24df0355af790e
+      internalID: -563080354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_38
+      rect:
+        serializedVersion: 2
+        x: 8193
+        y: 1046
+        width: 747
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3020673e5d1506e45876abc901d4bf56
+      internalID: 1951921043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_39
+      rect:
+        serializedVersion: 2
+        x: 8940
+        y: 1045
+        width: 744
+        height: 1043
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70993299526dc60438260046222b5ca6
+      internalID: 922544771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 742
+        height: 1039
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302ba6064e1b76745b005fb91a2b354a
+      internalID: -523443317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_41
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 8
+        width: 744
+        height: 1038
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcad9756d0751c1489d82f3f48c30049
+      internalID: 2009729246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_42
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 8
+        width: 742
+        height: 1039
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951fc203c69721a469fa2e02bd52ea03
+      internalID: -684456132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_43
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 7
+        width: 743
+        height: 1038
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b538d94286c116e4992d18c9e25c7907
+      internalID: -1685438268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_44
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 6
+        width: 744
+        height: 1040
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b2c33388ed4b14bb67809a8ce122fc
+      internalID: 82588451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_45
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 6
+        width: 744
+        height: 1040
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430eeb73c10ddd44d9510c5f2250fe49
+      internalID: 1192950947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_46
+      rect:
+        serializedVersion: 2
+        x: 4468
+        y: 7
+        width: 744
+        height: 1039
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225ea765b1de8f54aa4bb9b7a92dae59
+      internalID: 2097543489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_47
+      rect:
+        serializedVersion: 2
+        x: 5211
+        y: 7
+        width: 744
+        height: 1040
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc4ece017f62274b9ee9bb73212d151
+      internalID: -1462054603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_48
+      rect:
+        serializedVersion: 2
+        x: 5955
+        y: 7
+        width: 744
+        height: 1040
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f0c552a6dd96343abe99d945544046
+      internalID: 1598528595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_49
+      rect:
+        serializedVersion: 2
+        x: 6699
+        y: 7
+        width: 747
+        height: 1039
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef822a3aaf9a26044a9ee743299e25a8
+      internalID: 726069690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_50
+      rect:
+        serializedVersion: 2
+        x: 7446
+        y: 7
+        width: 748
+        height: 1041
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f09618ee29bdb459184cc887655392
+      internalID: 417862107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_51
+      rect:
+        serializedVersion: 2
+        x: 8193
+        y: 5
+        width: 748
+        height: 1041
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681bb373a5f5253478b08bdbce103ca9
+      internalID: 74968651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_52
+      rect:
+        serializedVersion: 2
+        x: 8941
+        y: 7
+        width: 745
+        height: 1038
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68181b3c4b20b074ebf50ce243e47460
+      internalID: 1897253672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_27: -2067013001
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_15: 417300177
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_26: -1887998269
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_34: 1910979936
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_48: -1462054603
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_0: 2123462180
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_14: 95053966
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_40: 922544771
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_7: 1306567360
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_29: 16133760
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_24: 1507926354
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_38: -563080354
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_16: -2133611572
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_44: -1685438268
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_47: 2097543489
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_3: -2027029783
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_17: 1650710772
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_33: 604948893
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_52: 74968651
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_1: -979104530
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_12: 1060041153
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_37: 1541397184
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_42: 2009729246
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_35: 728452748
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_46: 1192950947
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_11: -438845269
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_13: 454748391
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_39: 1951921043
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_51: 417862107
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_50: 726069690
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_41: -523443317
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_28: -202975714
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_32: -1203521232
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_4: -175472711
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_20: -435137524
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_23: -1596946728
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_31: -1543434947
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_45: 82588451
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_9: 2135676102
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_30: 563632987
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_22: -451660456
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_19: 687508729
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_21: 1109604302
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_36: -971583792
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_5: -240060890
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_49: 1598528595
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_8: 267127542
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_10: -1983864837
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_18: 1290922638
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_6: 573382912
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_43: -684456132
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_2: -1042489070
+      52-Combined-Color-Vector-Playing-Cards-1.3-(EPS-Format)_25: 587504772
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

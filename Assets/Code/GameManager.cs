@@ -4,6 +4,7 @@ using System.Collections;
 using System.Threading.Tasks;
 using System.Net;
 using System;
+using UnityEngine.UIElements;
 
 namespace Assets.Code
 {
@@ -234,18 +235,6 @@ namespace Assets.Code
             MainManager.MM.All[1].SetActive(false);
         }
 
-        /*public void BecameSortDropedCard(Card card)
-        {
-            var colX = card.transform.position.x / 1.1f;
-
-            int colNum = Mathf.RoundToInt(colX);
-
-            if (Columns[colNum].CanBeDroped(card))
-            {
-                MainManager.MM.ForCancelMove();
-            }
-        }*/
-
         public void SortDropedCard(Card card)
         {
             var colX = card.transform.position.x / 1.1f;
@@ -275,6 +264,8 @@ namespace Assets.Code
                     Columns[colNum].RefreshPickable();
                     Columns[colNum].CheckFinishedSequence();
                     TopPunnel_InGame_Buttons.topPunnel_InGame_Buttons.HelpWithCardData();
+
+                    GameManager.Instance.AudioSource.PlayOneShot(GameManager.Instance.AudioForCard);
                 }
                 else
                 {

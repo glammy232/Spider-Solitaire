@@ -101,10 +101,12 @@ namespace Assets.Code
 
             for (int i = Cards.Count - 1; i > 0; i--)
             {
-                if (Cards[i].Value != value || Cards[i].CardColor != cardColor)
+                if (/*Cards[i].Value != value */Cards[i].CardColor != cardColor)
+                {
                     break;
+                }
 
-                if (Cards.Count - 1 >= 12 && Cards[i].Value == 0 && Cards[i - 1].Value == 1 && Cards[i - 2].Value == 2 && Cards[i - 3].Value == 3 && Cards[i - 4].Value == 4 && Cards[i - 5].Value == 5 && Cards[i - 6].Value == 6 && Cards[i - 7].Value == 7 && Cards[i - 8].Value == 8 && Cards[i - 9].Value == 9 && Cards[i - 10].Value == 10 && Cards[i - 11].Value == 11 && Cards[i - 12].Value == 12)
+                if (Cards.Count - 1 >= 12 && Cards[i].Value == 0 && Cards[i - 1].Value == 1 && Cards[i - 2].Value == 2 && Cards[i - 3].Value == 3 && Cards[i - 4].Value == 4 && Cards[i - 5].Value == 5 && Cards[i - 6].Value == 6 && Cards[i - 7].Value == 7 && Cards[i - 8].Value == 8 && Cards[i - 9].Value == 9 && Cards[i - 10].Value == 10 && Cards[i - 11].Value == 11 && Cards[i - 12].Value == 12 && Cards[i].CardColor == cardColor && Cards[i -1].CardColor == cardColor && Cards[i-2].CardColor == cardColor && Cards[i-3].CardColor == cardColor && Cards[i-4].CardColor == cardColor && Cards[i-5].CardColor == cardColor && Cards[i-6].CardColor == cardColor && Cards[i -7].CardColor == cardColor && Cards[i-8].CardColor == cardColor && Cards[i -9].CardColor == cardColor && Cards[i-10].CardColor == cardColor && Cards[i-11].CardColor == cardColor && Cards[i-12].CardColor == cardColor)
                 {
                     MainManager.MM.ALLC.Clear();
                     MainManager.MM.ALLF.Clear();
@@ -125,9 +127,9 @@ namespace Assets.Code
                         doneCards[u].spriteRenderer.color = Color.white;
                     }
                     GameManager.Instance.TargetForFinishedSeq.transform.position = new Vector3(GameManager.Instance.TargetForFinishedSeq.transform.position.x + 0.3f, GameManager.Instance.TargetForFinishedSeq.transform.position.y, GameManager.Instance.TargetForFinishedSeq.transform.position.z);
+                    value++;
                 }
             }
-            value++;
         }
     }
 }

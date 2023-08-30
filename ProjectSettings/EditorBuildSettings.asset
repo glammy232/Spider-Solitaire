@@ -13,8 +13,8 @@ EditorBuildSettings:
     guid: 5ceff7f31ee4f1d469a5a8ba356e7850
   - enabled: 1
     path: Assets/Scenes/TwoSuit.unity
-    guid: 47773bed5e33e9342b6049fea3825c16
+    guid: 7fa84deac9093d0478f0994fc92797dd
   - enabled: 1
     path: Assets/Scenes/FourSuit.unity
-    guid: d218f55ebef6b4b4b9c7b730cef72604
+    guid: 5bbf071cd9e1011409ae56630213262e
   m_configObjects: {}

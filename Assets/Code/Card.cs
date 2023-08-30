@@ -85,7 +85,7 @@ namespace Assets.Code
             }
             PosInMouseDown = this.transform.position;
             Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            dragOffset = this.transform.position - mousePos;
+            dragOffset = this.transform.position - new Vector3(mousePos.x, mousePos.y, 0);
 
             picked = false;
             originalPosition = transform.position;
@@ -128,10 +128,6 @@ namespace Assets.Code
 
         private void OnMouseUp()
         {
-            if (fliped == true && pickable == true)
-            {
-                GameManager.Instance.AudioSource.PlayOneShot(GameManager.Instance.AudioForCard);
-            }
             if (!picked)
                 return;
 
@@ -153,6 +149,6 @@ namespace Assets.Code
                 {
                     Children[i].transform.position = new Vector2(newPos.x, newPos.y + (i + 1) * ParentColumn.YCardOffset);
                 }
-        }
+        } //зЈаЭлЩ ЯХЭШблллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл
     }
 }

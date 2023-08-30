@@ -28,6 +28,10 @@ public class TopPunnel_InGame_Buttons : MonoBehaviour
 
     public AudioSource MainAudioSource;
 
+    public Sprite ForMusicMute;
+    public Sprite ForMusicUnMute;
+
+
     public void Start()
     {
         NumOfMove = 0;
@@ -39,6 +43,7 @@ public class TopPunnel_InGame_Buttons : MonoBehaviour
         {
             if (MainManager.MM.OnMusic == 1)
             {
+                GameObject.Find("TopPunnel").GetComponent<Image>().sprite = ForMusicUnMute;
                 AudioListener.volume = 1;
                 MainAudioSource.mute = false;
                 UnMuteBtn.gameObject.SetActive(false);
@@ -47,6 +52,7 @@ public class TopPunnel_InGame_Buttons : MonoBehaviour
             }
             else if(MainManager.MM.OnMusic == 0)
             {
+                GameObject.Find("TopPunnel").GetComponent<Image>().sprite = ForMusicMute;
                 AudioListener.volume = 0;
                 MainAudioSource.mute = true;
                 MuteBtn.gameObject.SetActive(false);
@@ -174,6 +180,7 @@ public class TopPunnel_InGame_Buttons : MonoBehaviour
     }
     public void MuteAllSound()
     {
+        GameObject.Find("TopPunnel").GetComponent<Image>().sprite = ForMusicMute;
         MainManager.MM.OnMusic = 0;
         AudioListener.volume = 0;
         MainAudioSource.mute = true;
@@ -184,6 +191,7 @@ public class TopPunnel_InGame_Buttons : MonoBehaviour
 
     public void UnMuteAllSound()
     {
+        GameObject.Find("TopPunnel").GetComponent<Image>().sprite = ForMusicUnMute;
         MainManager.MM.OnMusic = 1;
         AudioListener.volume = 1;
         MainAudioSource.mute = false;
